@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <!-- 模型版本 -->
+    <modelVersion>4.0.0</modelVersion>
+
+    <!-- 公司或者组织的唯一标志，并且配置时生成的路径也是由此生成 -->
+    <groupId>org.example</groupId>
+
+    <!-- 项目的唯一ID，一个groupId下面可能有多个项目，就是靠artifactId来区分 -->
+    <artifactId>leetcode_done</artifactId>
+
+    <!-- 版本号 -->
+    <version>1.0-SNAPSHOT</version>
+
+
+</project>
